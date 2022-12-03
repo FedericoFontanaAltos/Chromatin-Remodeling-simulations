@@ -9,6 +9,6 @@ Expected output(s): Nucleosomes orientation, Distance Nucleosomes, Mechanical Pr
 
 MD simulation of Structure of an H1-bound 6-nucleosome array
 
-PDB ID;
+PDB ID: 6HKT
 Force-field: MARTINI CG-MD
 Expected output(s): Nucleosomes orientation, Distance Nucleosomes, Mechanical Properties
